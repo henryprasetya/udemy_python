@@ -1,0 +1,6 @@
+Hello World!
+Ini adalah baris baru.Append operation taking place!Append operation taking place!
+Append operation taking place!
+First line 
+Second line 
+Third line 
